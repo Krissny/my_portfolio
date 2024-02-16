@@ -107,4 +107,8 @@
     align-items: center;
     text-align: center;
   }
+  .bottomBlur {
+    right: 0;
+    top: 350px;
+  }
 }
