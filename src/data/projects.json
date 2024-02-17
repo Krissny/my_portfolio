@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Library",
+      "imageSrc": "projects/Book.png",
+      "description": "A simple library web app that keeps track of the books one has read or wants to read.I created it to practice prototype programming and objects in JavaScript.",
+      "skills": ["HTML5", "CSS", "JavaScript", "localStorage"],
+      "demo": "https://krissny.github.io/library/",
+      "source": "https://github.com/Krissny/library"
+    },
+    {
+      "title": "Tic Tac Toe",
+      "imageSrc": "projects/tic.png",
+      "description": "A classic Tic Tac Toe game. This project helped me learn a lot about modules, IIFEs, closures, and scope in JavaScript.",
+      "skills": ["HTML5", "CSS", "JavaScript"],
+      "demo": "https://krissny.github.io/Tic-Tac-Toe/",
+      "source": "https://github.com/Krissny/Tic-Tac-Toe"
+    },
+    {
+      "title": "Dashboard",
+      "imageSrc": "projects/Dashboard.png", 
+      "description": "A dashboard page created mostly with grid. This project taught me a lot about grid in web design.",
+      "skills": ["HTML5", "CSS", "JavaScript"],
+      "demo": "https://krissny.github.io/adminDashboard/",
+      "source": "https://github.com/Krissny/adminDashboard"
+    }
+  ]
