@@ -18,8 +18,8 @@ export const About = () => {
             <div>
               <h3>Frontend Developer</h3>
               <p>
-                I am a front-end developer with experience in building
-                responsive and oprimized sites
+                I am a front-end developer, with experience in building
+                responsive and optimized sites.
               </p>
             </div>
           </li>
@@ -28,8 +28,8 @@ export const About = () => {
             <div>
               <h3>Backend Developer</h3>
               <p>
-                I am a front-end developer with experience in building
-                responsive and oprimized sites
+                I have experience with Node.js, Express.js and connecting
+                webapps with APIs.
               </p>
             </div>
           </li>
@@ -38,8 +38,8 @@ export const About = () => {
             <div>
               <h3>UI Designer</h3>
               <p>
-                I am a front-end developer with experience in building
-                responsive and oprimized sites
+                Having experience with Figma and Canva like tools. I have
+                designed website which are easy to use and visually appealing.
               </p>
             </div>
           </li>
