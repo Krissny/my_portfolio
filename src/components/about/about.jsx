@@ -23,7 +23,7 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li>
+          {/* <li>
             <img src={getImageUrl("about/cpu.png")} alt="cpu" />
             <div>
               <h3>Backend Developer</h3>
@@ -32,7 +32,7 @@ export const About = () => {
                 webapps with APIs.
               </p>
             </div>
-          </li>
+          </li> */}
           <li>
             <img src={getImageUrl("about/ui.png")} alt="arrow" />
             <div>
